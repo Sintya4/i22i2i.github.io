@@ -1,2 +1,0 @@
-# dgh.xyz
-website
